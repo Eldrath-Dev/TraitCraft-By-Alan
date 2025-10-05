@@ -1,5 +1,5 @@
 TraitCraft by Alan - Premium Minecraft Plugin
-Copyright (C) 2025 Eldrath-Dev ( AlanTheDev )  <gogosmp2@gmail.com>
+Copyright (C) 2025 Eldrath-Dev ( AlanTheDev )  
 
 PROPRIETARY SOFTWARE LICENSE
 
