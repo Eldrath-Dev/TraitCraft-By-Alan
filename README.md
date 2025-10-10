@@ -1,15 +1,23 @@
 # TraitCraft - Advanced Trait & Progression System
 
-![TraitCraft Banner](https://your-image-link-here)  
+![TraitCraft Banner](https://github.com/Eldrath-Dev/TraitCraft-By-Alan/blob/main/Logo-traitcraft.png)  
 *Transform your Minecraft server with a revolutionary trait-based progression system!*
 
 ---
 
 ## 📜 License
-**License:** MIT  
-**Version:** 2.0.0  
+**License:** Proprietary – Owned by AlanTheDev (Eldrath-Dev) © 2025  
+**Version:** 1.0.0  
 **Minecraft:** Paper 1.21.4 or compatible forks  
 
+**Usage Terms:**  
+- You may use this software only on servers you **own or operate**.  
+- **Do not redistribute, resell, decompile, reverse-engineer, or remove copyright notices.**  
+- Use on more servers than licensed for is **prohibited**.  
+- All intellectual property rights are reserved by the Author.  
+
+**Disclaimer:**  
+This software is provided "as is" without warranty. The Author is **not liable** for any damages arising from its use. 
 ---
 
 ## 📖 Overview
@@ -238,7 +246,7 @@ PlayerDataService playerDataService = ServiceRegistry.getService(PlayerDataServi
 ### **Getting Help**
 - **Documentation:** Visit the [Wiki](https://github.com/Eldrath-Dev/TraitCraft/wiki)  
 - **Issues:** Report bugs on [GitHub Issues](https://github.com/Eldrath-Dev/TraitCraft/issues)  
-- **Community:** Join our [Discord Server](https://discord.gg/yourlink)
+- **Community:** Join our [Discord Server](https://discord.gg/hgTQCF5tjQ)
 
 ---
 
@@ -289,8 +297,8 @@ mvn clean install
 
 ## 📞 Contact
 - **GitHub:** [Eldrath-Dev/TraitCraft](https://github.com/Eldrath-Dev/TraitCraft)  
-- **Email:** [alan@eldrath.dev](mailto:alan@eldrath.dev)  
-- **Discord:** [Join our community server](https://discord.gg/yourlink)
+- **Email:** [alan@eldrath.dev](mailto:gogosmp2@gmail.com)  
+- **Discord:** [Join our community server](https://discord.gg/hgTQCF5tjQ)
 
 ---
 
