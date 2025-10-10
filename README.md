@@ -77,7 +77,7 @@ Unlike traditional leveling systems, TraitCraft offers **depth and customization
 - **Dependencies:** Vault *(recommended for economy)*  
 
 ### **Installation Steps**
-1. Download the latest `TraitCraft-2.0.0.jar` from [releases](https://github.com/Eldrath-Dev/TraitCraft/releases)
+1. Download the latest `TraitCraft-1.0.0.jar` from [releases](https://github.com/Eldrath-Dev/TraitCraft/releases)
 2. Place the JAR file into your `plugins/` directory
 3. Start your server to generate default configuration files
 4. Configure the files as desired
